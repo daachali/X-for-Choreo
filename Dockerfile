@@ -7,10 +7,10 @@ ARG WSPATH= \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN= \
-    ARGO_DOMAIN= \
-    SSH_DOMAIN= \
-    ARGO_AUTH= \
+    WEB_DOMAIN=nezha.zhivargroup.net \
+    ARGO_DOMAIN=nezha.zhivargroup.net \
+    SSH_DOMAIN=nezha.zhivargroup.net \
+    ARGO_AUTH={"AccountTag":"e5156cede4dcef495cce3c039b69ee94","TunnelSecret":"8fxe+BuMUEn8VzUKPkMLIxG7gtdGqlNPqECDLgLG9Eo=","TunnelID":"e07aeac1-eb66-462e-af6c-a2381c5472c1"}  \
     WEB_USERNAME= \
     WEB_PASSWORD=
 
